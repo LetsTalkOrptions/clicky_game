@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Jimmy",
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/jimmy-valmer.png?height=165",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Stan",
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/stan-marsh.png?height=165",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Kyle",
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/kyle-broflovski.png?height=165",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Cartman",
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/eric-cartman.png?height=165",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Kenny",
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/kenny-mccormick.png?height=165",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Wendy",
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/wendy-testaburger.png?height=165",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Token",
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/token-black.png?height=165",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Timmy",
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/timmy-burch.png?height=165",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Butters",
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/butters-stotch.png?height=165",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Tweak",
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/tweek-tweak.png?height=165",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Mrs. Claridge",
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/adults/mrsclaridge.png?height=165",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Towelie",
+      "image": "http://southparkstudios.mtvnimages.com/shared/characters/non-human/towelie.png?height=165",
+      "count": 0
+    }
+  ]
